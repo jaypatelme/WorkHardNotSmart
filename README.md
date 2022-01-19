@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @WorkHardNotSmart
-- 👀 I’m interested in Working Hard
+- 👋 Hi, I’m Jay
+- 👀 I’m interested in the integration of the medical and digital world. In particular I am intrested in machine learning and data science. In the medical feild a right diagonisis at the right time is life changing. I believe that by using machine learning we can revoluationizes 
 - 🌱 I’m currently learning how to Work Hard
 - 💞️ I’m looking to collaborate on Working Hard
 - 📫 How to reach me iamjayworking@gmail.com
